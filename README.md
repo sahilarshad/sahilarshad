@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a portfolio website.<br>🌱 I’m currently learning ReactJS and data science<br>
+Currently working on RAG systems using OpenAI
 
 
 ## 🌐 Socials:
